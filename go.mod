@@ -21,8 +21,8 @@ require (
 	github.com/emicklei/dot v0.16.0
 	github.com/fatih/color v1.13.0
 	github.com/fjl/gencodec v0.0.0-20191126094850-e283372f291f
-	github.com/fortytw2/leaktest v1.3.0 // indirect
 	github.com/flanglet/kanzi-go v1.9.1-0.20211212184056-72dda96261ee // indirect
+	github.com/fortytw2/leaktest v1.3.0 // indirect
 	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
 	github.com/goccy/go-json v0.7.4
 	github.com/gofrs/flock v0.8.1
@@ -65,13 +65,11 @@ require (
 	github.com/valyala/fastjson v1.6.3
 	github.com/wcharczuk/go-chart/v2 v2.1.0
 	go.uber.org/atomic v1.9.0
-	golang.org/x/crypto v0.0.0-20211117183948-ae814b36b871
-	golang.org/x/mod v0.5.0 // indirect
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211030160813-b3129d9d1021
-	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/crypto v0.1.0
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.1.0
 	golang.org/x/time v0.0.0-20210723032227-1f47c861a9ac
-	golang.org/x/tools v0.1.7
+	golang.org/x/tools v0.1.12
 	google.golang.org/genproto v0.0.0-20210917145530-b395a37504d4 // indirect
 	google.golang.org/grpc v1.42.0
 	google.golang.org/grpc/cmd/protoc-gen-go-grpc v1.1.0
